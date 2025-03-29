@@ -4,4 +4,5 @@ The Todo Application is a simple web-based to-do list manager built using JavaSc
 Key Features:
 
 *Create new tasks with titles and descriptions
+
 *Mark tasks as completed or pending
